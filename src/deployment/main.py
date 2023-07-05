@@ -583,6 +583,7 @@ if selected == "Contributors":
     24.	Sourav Dutta 
     25.	Srijeeta Mukherjee
     26.	Wallace Ferreira
+    27. Md. Anas Mondol
     """
 
     st.text(contributors)
